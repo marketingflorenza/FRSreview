@@ -19,14 +19,15 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 
   // ─── Firebase ───────────────────────────────────────────────────────────────
   const firebaseConfig = {
-    apiKey: "AIzaSyD7OaWHuBJ69uNdT8g3S4F2FL7tkmdTwAo",
-    authDomain: "florenza-clinic-db.firebaseapp.com",
-    projectId: "florenza-clinic-db",
-    storageBucket: "florenza-clinic-db.firebasestorage.app",
-    messagingSenderId: "343590026459",
-    appId: "1:343590026459:web:334f4ca1476f71cd3320fe",
+    apiKey: "AIzaSyDU-pg0gidKdhCUPXNVccYNyjCamezWVxA",
+    authDomain: "frs-clinic-db.firebaseapp.com",
+    projectId: "frs-clinic-db",
+    storageBucket: "frs-clinic-db.firebasestorage.app",
+    messagingSenderId: "785600452857",
+    appId: "1:785600452857:web:c07e3282926660cfaeea28",
+    measurementId: "G-VF5LSTMVCG"
   };
-  const APP_ID = 'florenza-clinic-db';
+  const APP_ID = 'frs-clinic-db';
   let app, auth, db;
   try {
     setLogLevel('silent');
