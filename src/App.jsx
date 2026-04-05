@@ -3053,7 +3053,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
             <div className="w-20 h-20 bg-white/20 rounded-2xl flex items-center justify-center mx-auto mb-4 backdrop-blur-md border border-white/30">
               <Database className="w-10 h-10 text-white" />
             </div>
-            <h1 className="text-2xl font-bold text-white tracking-tight">Florenza Clinic</h1>
+            <h1 className="text-2xl font-bold text-white tracking-tight">FRS Florenza Clinic</h1>
             <p className="text-purple-100 text-sm mt-1">ระบบจัดการข้อมูลคลินิก</p>
           </div>
           
@@ -3236,7 +3236,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
               <div className="flex items-center space-x-3">
                 <div className="bg-white p-2 rounded-full shadow-md"><Database className="w-5 h-5 sm:w-6 sm:h-6 text-purple-600" /></div>
                 <div>
-                  <h1 className="text-lg sm:text-2xl font-bold tracking-tight">Florenza Clinic</h1>
+                  <h1 className="text-lg sm:text-2xl font-bold tracking-tight">FRS Florenza Clinic</h1>
                   <p className="text-purple-200 text-[10px] sm:text-sm font-medium">ระบบจัดการประวัติ · นัดหมาย · ติดตาม</p>
                 </div>
               </div>
